@@ -1,3 +1,4 @@
 foo.txt
 tests/*
+!tests/test3.txt
 tes.txt
